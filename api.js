@@ -85,7 +85,7 @@ function descobrirPosicao(valorProcurado) {
 }
 
 
-//A FUNÇÃO ABAIXO SERÁ CHAMADA NO HTML PARA FAZER A MÉDIA DE ACORDO COM O AVALIADOR SELECIONADO
+//A FUNÇÃO ABAIXO SERÁ CHAMADA PARA FAZER A MÉDIA DE ACORDO COM O AVALIADOR SELECIONADO
 
 function notaMedia(posicao) {
   let soma = 0;
@@ -319,4 +319,4 @@ MELHOR CASO BUSCA
 
 */
 
-// NOTAÇÃO BIG-O CONSIDERANDO O PIOR CASO: f(n) = n^7 + log(n)
+// NOTAÇÃO BIG-O CONSIDERANDO O PIOR CASO: f(n) = 3n^2 + n + log(n)
