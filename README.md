@@ -38,3 +38,8 @@ node api.js
 ```
 
 O acesso nas rotas é feito da seguinte forma: é necessário listar todos os avaliadores com a rota localhost:3000/avaliadores . Feito isso, basta selecionar um nome e colar na rota localhost:3000/avaliadores/nomeAvaliador (substituir nomeAvaliador por o nome do avaliador escolhido) para descobrir os dados de media das notas, menor e maior
+
+## Teste de complexidade e velocidade de execução
+
+Com o intuito de medir a velocidade de execução, foi criado rotas para medir no pior caso de busca, médio caso de busca, melhor caso de busca, melhor caso de ordenação, médio caso de ordenação e melhor caso de ordenação
+
