@@ -27,8 +27,6 @@ Use o gerenciador de pacotes npm para instalar as dependências
 npm install
 ```
 
-O banco de dados foi configurado remotamente, não sendo necessário nenhuma ação. 
-
 ## Execução
 
 Para executar, digite no terminal:
